@@ -1,4 +1,3 @@
-# feel free to change the PORT value if you have another service running on port 8092
 export PORT=8095
 
 install:
